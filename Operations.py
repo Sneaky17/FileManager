@@ -147,6 +147,3 @@ def move():
                 sys.exit(0)
     else:
         print("Source path invalid!")
-
-
-#TODO add dropbox support
