@@ -1,5 +1,5 @@
 #!python3
-#FileManager v0.1 beta by @JJ and @Sneaky
+#FileManager v0.1 beta by Sneaky17
 #first ship; usable but not perfect
 
 import Menu
